@@ -37,7 +37,7 @@ function About() {
             <div className="col-lg-6 col-md-12 col-sm-12 my-image">
               <img
                 className="img-fluid animate-outline"
-                src="../images/me1.png"
+                src="../images/me1.webp"
                 alt="..."
               ></img>
             </div>

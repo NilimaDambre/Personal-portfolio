@@ -97,35 +97,35 @@ function MyWork() {
                 <div className="carousel-inner">
                   <div className="carousel-item active">
                     <img
-                      src="../portfolio-images/whattoeat1.png"
+                      src="../portfolio-images/whattoeat1.webp"
                       className="d-block w-100"
                       alt="..."
                     />
                   </div>
                   <div className="carousel-item">
                     <img
-                      src="../portfolio-images/whattoeat2.png"
+                      src="../portfolio-images/whattoeat2.webp"
                       className="d-block w-100"
                       alt="..."
                     />
                   </div>
                   <div className="carousel-item">
                     <img
-                      src="../portfolio-images/whattoeat3.png"
+                      src="../portfolio-images/whattoeat3.webp"
                       className="d-block w-100"
                       alt="..."
                     />
                   </div>
                   <div className="carousel-item">
                     <img
-                      src="../portfolio-images/whattoeat4.png"
+                      src="../portfolio-images/whattoeat4.webp"
                       className="d-block w-100"
                       alt="..."
                     />
                   </div>
                   <div className="carousel-item">
                     <img
-                      src="../portfolio-images/whattoeat5.png"
+                      src="../portfolio-images/whattoeat5.webp"
                       className="d-block w-100"
                       alt="..."
                     />

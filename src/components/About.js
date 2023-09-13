@@ -34,7 +34,7 @@ function About() {
                 </p>
               </div>
             </div>
-            <div className="col-lg-6 col-md-12 col-sm-12 my-image">
+            <div className="col-lg-6 col-md-12 col-sm-12 text-center my-image">
               <img
                 className="img-fluid animate-outline"
                 src="../images/me1.webp"

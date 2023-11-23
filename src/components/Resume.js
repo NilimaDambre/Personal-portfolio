@@ -16,7 +16,7 @@ function Resume() {
               <h4 className="ff-jose fw-bold ls-2">
                 <a
                   href="../file/NilimaJavadeResume.pdf"
-                  download="NilimaJavadeResume.pdf"
+                  download="Nilima Javade (Front End Developer).pdf"
                   style={{ textDecoration: "none", color: "#ffffff" }}
                 >
                   Resume
@@ -48,7 +48,7 @@ function Resume() {
                   <h4 className="ff-jose my-1 text-red">
                     Trainee Frontend Developer
                   </h4>
-                  <h6 className="blue-label px-2 py-1">Jul 2022 - Sep 2022</h6>
+                  <h6 className="blue-label px-2 py-1">Aug 2022 - Sep 2022</h6>
                   <p className="m-0">Aimbrill TechInfo · Full-time</p>
                   <p>Ahmedabad, Gujarat, India</p>
                 </li>

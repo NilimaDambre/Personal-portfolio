@@ -13,7 +13,7 @@ function About() {
                 <p className="slide-in-bottom">
                   Ambitious Front end developer, a self-led learner and team
                   player <br></br>
-                  with one year of experience in web developement.
+                  with 1.3 years of experience in front end developement.
                 </p>
                 <p className="slide-in-bottom">
                   Currently looking for new opportunities in industry and

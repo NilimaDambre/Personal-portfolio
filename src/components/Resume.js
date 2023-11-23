@@ -15,7 +15,7 @@ function Resume() {
             <div className="col-6">
               <h4 className="ff-jose fw-bold ls-2">
                 <a
-                  href="../file/NilimaJavadeResume.pdf"
+                  href="../file/Nilima Javade (Front End Developer).pdf"
                   download="Nilima Javade (Front End Developer).pdf"
                   style={{ textDecoration: "none", color: "#ffffff" }}
                 >
